@@ -9,7 +9,8 @@ def makeChange(coins, total):
         meet a given amount total.
 
         Args:
-            coins (list): This is a list of the values of the coins in your possession.
+            coins (list): This is a list of the values of the coins in
+            your possession.
             total (int): This is the total amount to make with the coins.
 
         Returns:
